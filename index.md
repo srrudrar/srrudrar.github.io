@@ -20,6 +20,11 @@ I am an astoundingly amazing candidate for this grant, blah blah blah. Modify te
 
 # Publications
   <a id="Publications">
+<html>
+  <body>
+    <a href="srrudrar.github.io/Rudraraju_CV_21.pdf">Curriculum Vitae</a>
+  </body>
+</html>
     
 Vahidi, N. W., **Rudraraju, S.**, Castagnola, E., Cea, C., Nimbalkar, S., Hanna, R., Arvizu, R.,
 Dayeh, S. A., Gentner, T. Q., & Kassegne, S. (2020). Epi-Intra neural probes with glassy carbon

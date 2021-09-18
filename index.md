@@ -22,7 +22,7 @@ I am an astoundingly amazing candidate for this grant, blah blah blah. Modify te
   <a id="Publications">
 <html>
   <body>
-    <a href="srrudrar.github.io/Rudraraju_CV_21.pdf">Curriculum Vitae</a>
+    <a href="https://github.com/srrudrar/srrudrar.github.io/blob/main/Rudraraju_CV_21.pdf">Curriculum Vitae</a>
   </body>
 </html>
     

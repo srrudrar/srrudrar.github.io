@@ -14,50 +14,52 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
-
-ul.nav {
-    width:100%;
-    margin:0 auto;
-    padding:0;
-    list-style:none;
-    display:inline-block;
-    background-color:#62564A;
-    text-align:center;
-    font-family: sans-serif; 
-}
-
-.nav li { 
-        display:inline;
-    }
-
-.nav a {
-    width:33%;
-    text-align:center;
-    display:inline-block;
-    padding-bottom:13px;
-    padding-top:12px;
-    border-left: 1px solid #fff;
-    border-right: 1px solid #fff;
-}
-
-.nav a:hover { 
-    background:#A26A42;
-    border:none;
-    width:32%
-}
-
-ul.nav li:first-child a{
-    border:none;
-}
-ul.nav li:last-child a {
-    border:none;
-}
     
-    <ul class="nav">
-        <li><a href="#">Search</a></li>
-        <li><a href="#">Legend</a></li>
-        <li><a href="#">Info</a></li>
-</ul>
+<!-- The navigation menu -->
+<div class="navbar">
+  <a class="active" href="#">Home</a>
+  <a href="#">Search</a>
+  <a href="#">Contact</a>
+  <a href="#">Login</a>
+</div>
+    
+    /* Style the navigation menu */
+.navbar {
+  width: 100%;
+  background-color: #555;
+  overflow: auto;
+}
+
+/* Navigation links */
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+  width: 25%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+  text-align: center; /* If you want the text to be centered */
+}
+
+/* Add a background color on mouse-over */
+.navbar a:hover {
+  background-color: #000;
+}
+
+/* Style the current/active link */
+.navbar a.active {
+  background-color: #04AA6D;
+}
+
+/* Add responsiveness - on screens less than 500px, make the navigation links appear on top of each other, instead of next to each other */
+@media screen and (max-width: 500px) {
+  .navbar a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left; /* If you want the text to be left-aligned on small screens */
+  }
+}
 <div id="map_canvas" style="position:absolute;left:0;right:0;"></div>
     
     <header class="page-header" role="banner">
@@ -66,7 +68,7 @@ ul.nav li:last-child a {
         <a href="{{ "https://twitter.com/SrihitaR" }}" class="btn"> 
           <img alt="Twitter" src="Twitter.png"
          width=40" height=40">
-        <a href="{{ "<h2 id="Aboutmelink">About Me</h2>" }}" class="btn"> More about me </a>
+        <a href="{{ "<h2 id="About Me">About Me</h2>" }}" class="btn"> More about me </a>
     </header>
 
     <main id="content" class="main-content" role="main">

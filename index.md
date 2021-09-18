@@ -18,6 +18,18 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 I am an astoundingly amazing candidate for this grant, blah blah blah. Modify text
 
+# Publications
+  <a id="Publications">
+    
+Vahidi, N. W., **Rudraraju, S.**, Castagnola, E., Cea, C., Nimbalkar, S., Hanna, R., Arvizu, R.,
+Dayeh, S. A., Gentner, T. Q., & Kassegne, S. (2020). Epi-Intra neural probes with glassy carbon
+microelectrodes help elucidate neural coding and stimulus encoding in 3D volume of tissue.
+Journal of Neural Engineering, 17(4), 046005.
+    
+Castagnola, E., Vahidi, N. W., Nimbalkar, S., **Rudraraju, S.**, Thielk, M., Zucchini, E., Cea, C.,
+Carli, S., Gentner, T. Q., Ricci, D., Fadiga, L., & Kassegne, S. (2018). In Vivo Dopamine
+Detection and Single Unit Recordings Using Intracortical Glassy Carbon Microelectrode
+Arrays. MRS Advances, 3(29), 1629–1634.
 <!---
 ## Header 2
 

@@ -14,6 +14,7 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
 # About Me
+<a id="About-Me">
 
 I am an astoundingly amazing candidate for this grant, blah blah blah. Modify text
 

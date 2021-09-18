@@ -30,6 +30,7 @@ Castagnola, E., Vahidi, N. W., Nimbalkar, S., **Rudraraju, S.**, Thielk, M., Zuc
 Carli, S., Gentner, T. Q., Ricci, D., Fadiga, L., & Kassegne, S. (2018). In Vivo Dopamine
 Detection and Single Unit Recordings Using Intracortical Glassy Carbon Microelectrode
 Arrays. MRS Advances, 3(29), 1629–1634.
+    
 <!---
 ## Header 2
 

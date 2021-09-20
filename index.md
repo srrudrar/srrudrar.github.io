@@ -13,6 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 --->
 # About Me
 <a id="About-Me">
+  
 I am a PhD student in the Gentner lab at UCSD focusing on combining Machine learning, statistical modeling, and neurophysical observations to understand perception.
 
 # Publications

@@ -2,8 +2,6 @@
 layout: default
 --->
 
-![thumbnail](thumbnail.png)
-
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -15,8 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 --->
 # About Me
 <a id="About-Me">
-
-I am an astoundingly amazing candidate for this grant, blah blah blah. Modify text
+I am a PhD student in the Gentner lab at UCSD focusing on combining Machine learning, statistical modeling, and neurophysical observations to understand perception.
 
 # Publications
   <a id="Publications">

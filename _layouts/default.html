@@ -51,7 +51,7 @@
   </nav>
     
  <!-- HEADER -->  
- <div id="map_canvas" style="position:absolute;left:0;right:0;">
+ <div id="map_canvas" style="position:absolute;left:0;right:0;"></div>
     
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
@@ -61,7 +61,6 @@
         <a href="{{ "#Publications" }}" class="btn"> publications </a>
         <a href="{{ "#CV" }}" class="btn"> cv </a>  
     </header>
- </div>
 
     <main id="content" class="main-content" role="main">
       {{ content }}

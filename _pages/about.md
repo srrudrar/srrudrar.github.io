@@ -16,6 +16,7 @@ You can find out more in my resume and CV, or our [lab website](http://gentnerla
 
 Research
 ======
+
 Decoding complex behaviors such as vocal recognition with predictive coding
 ------
 Comprehension of vocal communication signals in both songbirds and humans is intricately tied to anticipations rooted in prior sensory knowledge. To elucidate the underlying perceptual and cognitive processes, the theoretical framework of predictive coding proves invaluable. Beyond elucidating general perception, this framework extends its explanatory power to complex behavioral phenomena, including the intricate process of recognizing vocal sequences. An intriguing question arises: is the internal model adaptable based on complex behavior?  The neural and cognitive mechanisms underlying this are not well understood. Employing innovative methods for analyzing both the acoustic and temporal dimensions of vocal signals, we subsequently embark on a dual approach—examining the behavioral and physiological dimensions—to unravel the foundations of the predictive structure inherent in birdsong.
